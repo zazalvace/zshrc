@@ -1,0 +1,2 @@
+# zshrc
+Simple zshrc example
